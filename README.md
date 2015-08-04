@@ -1,7 +1,5 @@
-<!doctype html>
 <html lang="es">
 	<head>
-		<title>Proyecto ejemplo Reloj Digital con JQuery x Daniel Bojorge</title>
 		<meta http-equiv="Content-Language" content="es">
     	<meta name="viewport" content="width=1020">
     	<meta name="description" content="Reloj Digital con JQuery y subido a GitHub">
@@ -11,8 +9,8 @@
 	<body>
 		<h1>Proyecto ejemplo Reloj Digital con JQuery <span>Elaborado por Daniel Bojorge</span></h1>
 		<b>Youtube:  </b> https://www.youtube.com/debsdaniel03<br>
-		<b>FaceBook: </b> https:/www.facebook.com/DEBSConsultores<br>
-		<b>Twitter:  </b> https:/www.twitter.com/DEBSConsultores<br>
+		<b>FaceBook: </b> https://www.facebook.com/DEBSConsultores<br>
+		<b>Twitter:  </b> https://www.twitter.com/DEBSConsultores<br>
 		<b>Blog:     </b> http://debsconsultores.blogspot.com/<br>
 	</body>
 </html>
