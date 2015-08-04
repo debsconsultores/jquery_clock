@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="es">
 	<head>
 		<title>Proyecto ejemplo Reloj Digital con JQuery x Daniel Bojorge</title>
